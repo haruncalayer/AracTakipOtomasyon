@@ -12,6 +12,8 @@ namespace AracTakipOtomasyon
         {
           //kodlama 1
             //Araç takip otomasyonu kodlar var..
+            //kodlama 2 yapıldı
+            //uygulama çekirdeği geliştirildi
         }
     }
 }
