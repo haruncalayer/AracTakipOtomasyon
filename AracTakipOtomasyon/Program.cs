@@ -10,7 +10,8 @@ namespace AracTakipOtomasyon
     {
         static void Main(string[] args)
         {
-
+          //kodlama 1
+            //Araç takip otomasyonu kodlar var..
         }
     }
 }
