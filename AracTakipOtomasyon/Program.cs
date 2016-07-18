@@ -19,6 +19,8 @@ namespace AracTakipOtomasyon
             
             //kodlama 3-navigasyonlu
             //navigasyon geliştirilmesi çekirdeğe eklendi
+
+            //masterdannnnn
         }
     }
 }
